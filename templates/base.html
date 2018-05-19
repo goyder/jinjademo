@@ -19,13 +19,8 @@
 
 <section class="container">
 {% autoescape false %}
-{% for analysis in analysis_list %}
-        <div class="analysis">
-            <h2 class="title">{{ analysis.title }}</h2>
-            <div class="contents">
-                {{ analysis.html }}
-            </div>
-        </div>
+{% for block in blocks %}
+    {{ block }}
 {% endfor %}
 {% endautoescape %}
 </section>

@@ -1,23 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <title>This is Home.</title>
+    <link rel="stylesheet" href="static/milligram.css">
 </head>
+
 <body>
-<h1>
-    Hello, world.
-</h1>
-<p>What is this about?</p>
+<main class="wrapper">
+
+<section class="container">
+    <h1>
+        Hello, world.
+    </h1>
+    <p>What is this about?</p>
+</section>
+
+<section class="container">
 {% autoescape false %}
 {% for analysis in analysis_list %}
-<div class="analysis">
-    <h2>{{ analysis.title }}</h2>
-    <div class="contents">
-        {{ analysis.html }}
-    </div>
-</div>
+        <div class="analysis">
+            <h2 class="title">{{ analysis.title }}</h2>
+            <div class="contents">
+                {{ analysis.html }}
+            </div>
+        </div>
 {% endfor %}
 {% endautoescape %}
+</section>
+
+</main>
 </body>
 </html>

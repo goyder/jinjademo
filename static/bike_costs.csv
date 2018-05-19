@@ -1,0 +1,263 @@
+date,amount,currency,country,description,category
+21/4/15,1991.62,AUD,Australia,Flights,
+21/4/15,83,AUD,Australia,Airbnb,
+1/4/15,999,AUD,Australia,Fuji Tourer,Bike
+25/4/15,10,AUD,Australia,Wedge Pack,Bike
+26/4/15,20,AUD,Australia,Water bottle carriers and bottles,Bike
+27/4/15,18,AUD,Australia,Multi-tool,Bike
+28/4/15,8,AUD,Australia,Tube repair kit,Bike
+29/4/15,15,AUD,Australia,Combination Lock,Bike
+30/4/15,18,AUD,Australia,Bike pump,Bike
+16/6/15,10.06,AUD,Australia,Gas,Camping
+16/6/15,4.49,AUD,Australia,Toothbrushes,Camping
+16/6/15,4.49,AUD,Australia,Enamel mug,Camping
+16/6/15,26.97,AUD,Australia,Microfibre towels,Camping
+16/6/15,17.99,AUD,Australia,Pack raincover,Camping
+16/6/15,13.49,AUD,Australia,Pocket tool,Camping
+16/6/15,8.99,AUD,Australia,European power adapter,Camping
+16/6/15,17.99,AUD,Australia,First aid kit,Camping
+16/6/15,8.99,AUD,Australia,Silicon bowl,Camping
+16/6/15,6.29,AUD,Australia,Multipurpose washing liquid,Camping
+16/6/15,26.99,AUD,Australia,Set of pots,Camping
+16/6/15,15,AUD,Australia,Dry-lube,Bike
+12/6/15,71.98,AUD,Australia,Merino wool tops,Bike
+25/4/15,99,AUD,Australia,Tioga Panniers,Bike
+25/4/15,85,AUD,Australia,Bike lights,Bike
+25/4/15,14,AUD,Australia,Tubes,Bike
+25/4/15,89,AUD,Australia,Front Panniers,Bike
+25/4/15,30.02,AUD,Australia,Power brick,Travel
+25/4/15,99.95,AUD,Australia,Helmet,Bike
+25/4/15,4,AUD,Australia,Presta Valve Adapter,Bike
+13/6/15,99.97,AUD,Australia,Rain jacket,Clothing
+13/6/15,80,AUD,Australia,Casual shoes,Clothing
+29/6/15,10,EUR,Sweden,"water, calzone, icecream",Food
+29/6/15,60,SEK,Sweden,train ticket,Transportation
+29/6/15,80,SEK,Sweden,"muesli, peanut butter, beer","Food,Drink"
+30/6/15,59,SEK,Sweden,Gas,Camping
+30/6/15,187,SEK,Sweden,Groceries,Food
+30/6/15,100,SEK,Sweden,Degreaser,Bike
+30/6/15,270,SEK,Sweden,Dinner and beer,Food
+30/6/15,34,AUD,Sweden,Airbnb,Accommodation
+1/7/15,65,SEK,Sweden,Groceries,Food
+1/7/15,170,SEK,Sweden,"Snacks, icecream ,dinner",Food
+1/7/15,4,SEK,Sweden,Donation to church,Misc
+2/7/15,65,SEK,Sweden,"Groceries, water, cloths",Food
+2/7/15,40,SEK,Sweden,Drinks and lollies by ferry,Food
+2/7/15,35,SEK,Sweden,ice cream,Food
+3/7/15,45,SEK,Sweden,"Groceries, drinks, lollies",Food
+3/7/15,60,SEK,Sweden,Baked goods,Food
+3/7/15,253,SEK,Sweden,"Pub dinner, beer","Food,Drink"
+3/7/15,30,SEK,Sweden,Pick n mix,Food
+4/7/15,80,AUD,Sweden,Airbnb,Accommodation
+4/7/15,40,SEK,Sweden,"Drinks, pick n mix",Food
+4/7/15,97,SEK,Sweden,"Beer, chips",Food
+4/7/15,136,SEK,Sweden,"Snacks, dinner",Food
+5/7/15,300,SEK,Sweden,"Dinner, beer","Food,Drink"
+5/7/15,26,SEK,Sweden,ice cream,Food
+5/7/15,35,SEK,Sweden,Coke,Food
+5/7/15,30,SEK,Sweden,"Salami, chocolates",Food
+5/7/15,40,SEK,Sweden,"Icecream, pepsi",Food
+6/7/15,40,SEK,Sweden,"Chocolate, salami",Food
+6/7/15,35,SEK,Sweden,"pastry, coffee",Food
+6/7/15,18,SEK,Sweden,bread,"Food,Drink"
+6/7/15,20,SEK,Sweden,drinks (lunch),Food
+6/7/15,35,SEK,Sweden,Rock candy,Food
+6/7/15,30,SEK,Sweden,Beer,Drink
+7/7/15,94,SEK,Sweden,Subway sandwich,Food
+7/7/15,5,SEK,Sweden,Toilet,Misc
+7/7/15,60,SEK,Sweden,"Snacks, bread",Food
+8/7/15,100,SEK,Sweden,Snacks,Food
+8/7/15,24,SEK,Sweden,Afternoon run,Misc
+8/7/15,115,SEK,Sweden,Dinner,Food
+8/7/15,30,SEK,Sweden,Beer,Drink
+9/7/15,50,SEK,Sweden,Undies,Clothing
+9/7/15,70,SEK,Sweden,Alcohol,Drink
+9/7/15,89,SEK,Sweden,Gas,Camping
+9/7/15,120,SEK,Sweden,Burgers,Food
+9/7/15,15,SEK,Sweden,Pick n mix,Food
+9/7/15,149,SEK,Sweden,Phone cover,Misc
+9/7/15,25,SEK,Sweden,Coffee,Drink
+9/7/15,195,SEK,Sweden,Dinner,Drink
+10/7/15,46,AUD,Sweden,Airbnb,Accommodation
+10/7/15,200,SEK,Sweden,Laundry,Misc
+10/7/15,70,SEK,Sweden,Groceries,Food
+10/7/15,100,SEK,Sweden,Book,Entertainment
+10/7/15,17,SEK,Sweden,Coke,Drink
+10/7/15,11,SEK,Sweden,Groceries,Food
+10/7/15,70,SEK,Sweden,"Coffee, chocolate ball",Food
+10/7/15,52,SEK,Sweden,Beer,Drink
+10/7/15,70,SEK,Sweden,Groceries,Food
+11/7/15,60,SEK,Sweden,Luggage,Transportation
+11/7/15,75,SEK,Sweden,"Fries, coffee",Food
+11/7/15,99,SEK,Sweden,"Degreaser, phone cover","Bike,Misc"
+11/7/15,30,SEK,Sweden,"Pasta, water",Food
+11/7/15,70,SEK,Sweden,Beer,Drink
+12/7/15,87,SEK,Sweden,Subway sandwich,Food
+12/7/15,15,SEK,Sweden,Pepsi,Drink
+12/7/15,80,SEK,Sweden,Postage home,Misc
+12/7/15,90,SEK,Sweden,Icecream,Food
+12/7/15,660,SEK,Sweden,Hostel,Accommodation
+12/7/15,105,SEK,Sweden,Groceries,Food
+12/7/15,30,SEK,Sweden,Drinks for lunch,Drink
+12/7/15,450,SEK,Sweden,Ferry,Transportation
+13/7/15,40,SEK,Sweden,"Drinks, chocolate coins","Food,Drink"
+13/7/15,91,AUD,Sweden,Accommodation,Accommodation
+13/7/15,70,DKK,Denmark,Beer,Drink
+14/7/15,29,DKK,Denmark,Phone sim,Phone
+14/7/15,149,DKK,Denmark,Phone sim 2,Phone
+14/7/15,35,DKK,Denmark,Maccas,Food
+14/7/15,25,DKK,Denmark,Pastries,Food
+14/7/15,40,DKK,Denmark,"Ice cream, pick n mix",Food
+14/7/15,40,DKK,Denmark,Drinks,Drink
+14/7/15,200,DKK,Denmark,Bus,Transportation
+15/7/15,70,DKK,Denmark,Maccas brekkie,Food
+15/7/15,55,DKK,Denmark,"Chocolate, salami",Food
+15/7/15,14,DKK,Denmark,Bread,Food
+15/7/15,10,DKK,Denmark,Croissant,Food
+15/7/15,15,DKK,Denmark,Pepsi,Food
+15/7/15,2,DKK,Denmark,Loo,Misc
+15/7/15,40,DKK,Denmark,Pick n mix,Food
+15/7/15,16,DKK,Denmark,Toilet paper,Camping
+15/7/15,50,DKK,Denmark,Beer,Drink
+16/7/15,34,DKK,Denmark,"Coffee, bread, pasta",Food
+16/7/15,125,DKK,Denmark,"Icecream, pasta",Food
+16/7/15,125,DKK,Denmark,"Dinner, beer",Food
+16/7/15,35,DKK,Denmark,Pastries,Food
+16/7/15,10,DKK,Denmark,Beer,Drink
+17/7/15,300,DKK,Denmark,Beer,Drink
+17/7/15,50,DKK,Denmark,Tacoes,Food
+17/7/15,115,DKK,Denmark,Groceries,Food
+17/7/15,100,DKK,Denmark,"""beer""",Entertainment
+18/7/15,135,DKK,Denmark,Jeans,Clothing
+18/7/15,89,DKK,Denmark,Lunch,Food
+18/7/15,18,DKK,Denmark,Pastry,Food
+18/7/15,80,DKK,Denmark,Dinner,Food
+18/7/15,20,DKK,Denmark,Lemonade,Drink
+18/7/15,22,DKK,Denmark,Beer,Drink
+19/7/15,60,DKK,Denmark,Icecream,Food
+19/7/15,135,DKK,Denmark,Groceries,Food
+19/7/15,35,DKK,Denmark,Beer,Drink
+20/7/15,44,DKK,Denmark,"pastry, coffee",Food
+20/7/15,45,DKK,Denmark,Bug spray,Camping
+20/7/15,20,DKK,Denmark,Coffee,Drink
+20/7/15,25,DKK,Denmark,"Yoghurt, bread",Food
+20/7/15,35,DKK,Denmark,"Pastry, drink",Food
+21/7/15,35,DKK,Denmark,"Pastries, drinks",Food
+21/7/15,20.1,EUR,Germany,"Beers, applecake",Food
+21/7/15,4.5,EUR,Germany,"Pastries, cokes","Food,Drink"
+22/7/15,20.1,EUR,Germany,Lunch,Food
+22/7/15,3,EUR,Germany,Coffee,Drink
+22/7/15,4.6,EUR,Germany,"Bratwrust, beer","Food,Drink"
+22/7/15,6.5,EUR,Germany,Beer,Food
+22/7/15,4,EUR,Germany,"Chocolate, redbull",Food
+22/7/15,1.5,EUR,Germany,Starburst,Food
+22/7/15,4,EUR,Germany,???,Misc
+23/7/15,160,AUD,Germany,Airbnb,Accommodation
+23/7/15,11,EUR,Germany,Kebab,Food
+23/7/15,4,EUR,Germany,Aldi,Food
+23/7/15,4.5,EUR,Germany,Lunch,Food
+24/7/15,90,AUD,Germany,Airbnb,Accommodation
+24/7/15,27,EUR,Germany,Dinner,Food
+24/7/15,3,EUR,Germany,Crepe,Food
+24/7/15,8.2,EUR,Germany,"Breakfast, breakfast",Food
+24/7/15,9,EUR,Germany,Miniature wunderland!,Entertainment
+24/7/15,8,EUR,Germany,Lunch,Food
+24/7/15,11.5,EUR,Germany,train ticket,Transportation
+25/7/15,4.5,EUR,Germany,Arbeit museum,Entertainment
+25/7/15,7,EUR,Germany,Shirt,Clothing
+25/7/15,4.5,EUR,Germany,"Breakfast, breakfast",Food
+25/7/15,9.7,EUR,Germany,Dinner,Food
+25/7/15,5,EUR,Germany,"Drinks, pastries",Food
+25/7/15,3,EUR,Germany,Coffeee,Drink
+25/7/15,2,EUR,Germany,Drink,Drink
+26/7/15,133,AUD,Germany,Airbnb,Accommodation
+26/7/15,5,EUR,Germany,"Food, coffee","Food,Drink"
+26/7/15,18,EUR,Germany,Dinner,Food
+26/7/15,2.4,EUR,Germany,Icecream,Food
+26/7/15,3,EUR,Germany,Lunch,Food
+26/7/15,2,EUR,Germany,Bakery,Food
+27/7/15,43,EUR,Germany,Lock and bolt,Bike
+27/7/15,5,EUR,Germany,Groceries,Food
+27/7/15,2,EUR,Germany,Groceries,Food
+27/7/15,15,EUR,Germany,Phone data,Phone
+27/7/15,2,EUR,Germany,Baked goods,Food
+27/7/15,6.5,EUR,Germany,Kebab and beer,"Food,Drink"
+28/7/15,122,AUD,Germany,Rent,Accommodation
+28/7/15,4.5,AUD,Germany,Groceries,Food
+28/7/15,7,AUD,Germany,Maccas,Food
+28/7/15,4.5,AUD,Germany,Baked goods,Food
+28/7/15,13.8,AUD,Germany,Indian,Food
+29/7/15,7,EUR,Germany,Bakery breakfast,Food
+29/7/15,2.5,EUR,Germany,Lunch,Food
+29/7/15,4.5,EUR,Germany,"Coffee, donut",Food
+30/7/15,10,EUR,Germany,Jug,Drink
+30/7/15,12,EUR,Germany,Bike tickets,Transportation
+30/7/15,8,EUR,Netherlands,Pastries,Food
+30/7/15,10,EUR,Netherlands,Movie,Entertainment
+30/7/15,5,EUR,Netherlands,Snacks,Food
+31/7/15,10,EUR,Netherlands,Museum,Entertainment
+31/7/15,7,EUR,Netherlands,"Coffee, brownie","Food,Drink"
+31/7/15,9,EUR,Netherlands,Maccas,Food
+31/7/15,2,EUR,Netherlands,Drinks,Drink
+31/7/15,20,EUR,Netherlands,Dinner,Food
+31/7/15,3,EUR,Netherlands,Coffee,Drink
+31/7/15,3,EUR,Netherlands,Coffee,Drink
+31/7/15,3,EUR,Netherlands,Shake,Drink
+31/7/15,55,AUD,Netherlands,Airbnb,Accommodation
+1/8/15,4.99,EUR,Netherlands,Groceries,Food
+1/8/15,7,EUR,Netherlands,"Groceries, breakfast",Food
+1/8/15,3,EUR,Netherlands,Drinks,Drink
+2/8/15,5.5,EUR,Netherlands,Snack,Food
+2/8/15,20,EUR,Netherlands,Dinner,Food
+2/8/15,18.6,EUR,Netherlands,Groceries,Food
+2/8/15,2.6,EUR,Netherlands,Icecream,Food
+2/8/15,3,EUR,Netherlands,Coffee,Drink
+3/8/15,4.2,EUR,Netherlands,Sandwich,Food
+3/8/15,6,EUR,Netherlands,"""beer""",Entertainment
+3/8/15,2,EUR,Netherlands,Drinks,Drink
+3/8/15,3,EUR,Netherlands,Lighter,Entertainment
+3/8/15,6.5,EUR,Netherlands,Food,Food
+3/8/15,-47.5,EUR,Netherlands,Casino winnings!,Entertainment
+4/8/15,15,EUR,Netherlands,Museum,Entertainment
+4/8/15,1.5,EUR,Netherlands,"Water, croissant",Food
+4/8/15,7,EUR,Netherlands,Groceries,Food
+5/8/15,55,EUR,Netherlands,Casino losings,Entertainment
+5/8/15,16,EUR,Netherlands,Dinner,Food
+5/8/15,23,EUR,Netherlands,Haircut,Misc
+5/8/15,7,EUR,Netherlands,Public transport,Transportation
+5/8/15,18,EUR,Netherlands,Groceries,Food
+5/8/15,17,EUR,Netherlands,Lunch,Food
+5/8/15,5.5,EUR,Netherlands,Sandwich,Food
+6/8/15,10,EUR,Netherlands,Beers,Drink
+6/8/15,9,EUR,Netherlands,Groceries,Food
+6/8/15,45,AUD,Netherlands,Airbnb,Accommodation
+7/8/15,5.85,EUR,Netherlands,Afternoon snack,Food
+7/8/15,5,EUR,Netherlands,Drinks,Drink
+7/8/15,8.7,EUR,Netherlands,Groceries,Food
+7/8/15,68,AUD,Belgium,Airbnb,Accommodation
+7/8/15,266,AUD,France,Airbnb,Accommodation
+7/8/15,77,AUD,Netherlands,Airbnb,Accommodation
+8/8/15,5.8,EUR,Belgium,Groceries,Food
+8/8/15,3,EUR,Belgium,Snacks,Food
+8/8/15,4,EUR,Belgium,Maccas,Food
+8/8/15,30,EUR,Belgium,Sim card,Phone
+8/8/15,1,EUR,Belgium,Coke,Drink
+8/8/15,2.5,EUR,Belgium,Icecream,Food
+8/8/15,61,AUD,Belgium,Airbnb,Accommodation
+8/8/15,42,AUD,Belgium,Airbnb,Accommodation
+9/8/15,10.3,EUR,Belgium,Caf_,Food
+9/8/15,10.5,EUR,Belgium,Dinner,Food
+9/8/15,5.2,EUR,Belgium,Beer,Drink
+9/8/15,1.5,EUR,Belgium,Drink,Drink
+9/8/15,3.3,EUR,Belgium,Beer,Drink
+10/8/15,25,EUR,Belgium,Steak lunch,Food
+10/8/15,3,EUR,Belgium,Baked goods,Food
+10/8/15,10.5,EUR,Belgium,"Beers, crepes","Food,Drink"
+10/8/15,5,EUR,Belgium,Groceries,Food
+10/8/15,4,EUR,Belgium,Pastries,Food
+11/7/15,11,EUR,France,Pizza,Food
+11/7/15,3,EUR,France,Snack,Food
+11/7/15,17,EUR,France,Groceries,Food
+11/7/15,4.9,EUR,France,Sim card,Phone
+11/7/15,9.5,EUR,France,Lunch,Food
+12/7/15,33.5,EUR,France,train ticket,Transportation

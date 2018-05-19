@@ -32,6 +32,10 @@ def csv_to_html(csv_filepath):
     soup.find(id="table")['data-toggle'] = "table"
     soup.find(id="table")['data-pagination'] = "true"
     soup.find(id="table")['data-search'] = "true"
+    soup.find(id="table")['data-sortable'] = "true"
+    soup.find(id="table")['data-show-multi-sort'] = "true"
+    for th in soup.findAll("th"):
+        th["data-sortable"] = "true"
 
     # Return as CSV file
     return soup
@@ -64,6 +68,12 @@ def hello_world():
         csv_filepath=os.path.join("static", "bike_costs.csv"),
         title="Costs through Europe",
         comments="Costs of activities throughout a bike trip of Europe."
+    ))
+
+    html_blocks.append(generate_csv_block(
+        csv_filepath=os.path.join("static", "2011-cardioactivities.csv"),
+        title="Summary of runs from 2011",
+        comments="A summary of jobs and sprints that I undertook in 2011."
     ))
 
     return render_template(

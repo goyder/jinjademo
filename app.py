@@ -1,5 +1,6 @@
 import pandas as pd
 import os
+from bs4 import BeautifulSoup
 
 from flask import Flask, render_template
 
@@ -14,10 +15,26 @@ def csv_to_html(csv_filepath):
     :return: HTML representation of table to be inserted into block.
     """
     # Read in CSV file
-    df_csvfile = pd.read_csv(csv_filepath)
+    df_csvfile = pd.read_csv(
+        csv_filepath,
+    )
+
+    # Convert to html
+    html_csvfile = df_csvfile.to_html(
+        escape=False,
+        table_id="table",
+        index=False,
+        index_names=False,
+    )
+
+    # Add a tag for the bootstrapping
+    soup = BeautifulSoup(html_csvfile)
+    soup.find(id="table")['data-toggle'] = "table"
+    soup.find(id="table")['data-pagination'] = "true"
+    soup.find(id="table")['data-search'] = "true"
 
     # Return as CSV file
-    return df_csvfile.to_html(escape=False)
+    return soup
 
 
 def generate_csv_block(csv_filepath, title, comments):
